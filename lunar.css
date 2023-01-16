@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.title{
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.body{
+    width: 100%;
+    background-color:yellow;
+    margin: 2px 0px;
+}
+
+.row{
+    display: flex;
+}
+.luckymoney{
+    width: 25%;
+    margin: 20px 20px;
+}
+
+.image{
+    width: 130px;
+    height: 150px;
+}
+
+.image:hover{
+    width: 128px;
+    height: 148px;
+}
